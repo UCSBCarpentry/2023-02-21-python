@@ -1,5 +1,6 @@
 ---
 title: Data Types and Formats
+start: true
 teaching: 20
 exercises: 25
 questions:

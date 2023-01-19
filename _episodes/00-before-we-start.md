@@ -1,5 +1,6 @@
 ---
 title: Before we start
+start: true
 teaching: 30
 exercises: 0
 questions:
