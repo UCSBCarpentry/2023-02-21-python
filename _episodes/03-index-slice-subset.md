@@ -1,5 +1,6 @@
 ---
 title: Indexing, Slicing and Subsetting DataFrames in Python
+start: true
 teaching: 30
 exercises: 30
 questions:

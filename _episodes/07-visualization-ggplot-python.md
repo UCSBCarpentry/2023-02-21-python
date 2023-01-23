@@ -1,6 +1,5 @@
 ---
 title: Making Plots With plotnine
-start: true
 teaching: 40
 exercises: 50
 questions:
