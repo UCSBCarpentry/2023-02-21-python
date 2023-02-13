@@ -2,6 +2,11 @@
 title: Setup
 ---
 
+
+> ## Using Jupyter Hub
+> For this workshop, we will be using a Jupyter Hub Instance that LSIT has graciously setup for us with the software and libraries preinstalled. Please use your UCSB NETID to sign into the Jupyter Hub at: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/). If you prefer to use Python on your own computer, you may use the Python installation instructions below, but this is not required.
+{: .prereq}
+
 > ## Data
 > Data for this lesson is from the
 > [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
@@ -18,7 +23,7 @@ title: Setup
 > Please download them (by clicking on the corresponding links) and move them to the same directory, or
 > [download all the files as a zip]({{ page.root }}/data/portal-teachingdb-master.zip)
 > which will give you everything in a single compressed file. You'll need to unzip
-> this file after downloading it.
+> this file after downloading it and upload the files to the "data" folder in your Jupyter Hub environment.
 {: .prereq}
 
 
