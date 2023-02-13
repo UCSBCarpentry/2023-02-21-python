@@ -164,7 +164,7 @@ conda install -y -c conda-forge plotnine
 
 This will then install the latest version of plotnine into your conda environment.
 
-## Required packages: Miniconda
+## Alternative to Anaconda: Miniconda
 
 Miniconda is a lightweight version of Anaconda. If you install Miniconda instead of Anaconda,
 you need to install required packages manually in the following way:
